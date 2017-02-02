@@ -1,6 +1,9 @@
 {
-  "name": "redux-simple-starter",
+  "name": "comp208",
   "version": "1.0.0",
+  "engines": {
+    "node": "6.9.5"
+  },
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "server.js",
   "scripts": {
