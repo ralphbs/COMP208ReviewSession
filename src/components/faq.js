@@ -15,12 +15,15 @@ export default class Faq extends React.Component{
                 <h2>What you need to do?</h2>
                 <p>Get your brains and willingness to learn and leave the rest for me.</p>
                 <h2>How much is it?</h2>
-                <p>It is <b>40$</b> per student for 6 hours to be paid via Paypal.</p>
+                <p>It is <b>40$</b> per student for <b>6 hours</b> to be paid via Paypal, cash, or interac e-Transfer.</p>
                 <h2>What do you get in this package?</h2>
                 <p>You will get a review booklet + You will ace your exam!</p>
                 <h2>How do I pay?</h2>
                 <p>Click <a href="https://www.PayPal.Me/RalphBouSamra " target="_blank">here</a> to pay via Paypal.</p>
-            </div>
+		<p>To use interac, transfer 40$ to bousamra.ralph@gmail.com.</p>
+		<p>To pay by cash, pay 40$ in cash at the door.</p>
+		<h3>Please feel free to contact me if you have any concern! See you soon!</h3> 
+           </div>
         );
     }
 }

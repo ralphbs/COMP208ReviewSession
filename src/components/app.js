@@ -16,7 +16,6 @@ export default class App extends React.Component {
           </div>
           <PersonalInformation />
           <Faq />
-          <h2 className="text-center">See you soon!</h2>
         </div>
     );
   }
