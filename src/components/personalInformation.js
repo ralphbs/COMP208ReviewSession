@@ -15,8 +15,7 @@ export default class PersonalInformation extends React.Component{
                     </tr>
                     <tr className="danger">
                         <td>Location</td>
-                        <td>2250 Guy St. Apt 1407 Montreal QC</td>
-
+                        <td>TBD</td>
                     </tr>
                     <tr className="info">
                         <td>Date</td>
