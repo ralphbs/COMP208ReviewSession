@@ -19,7 +19,7 @@ export default class PersonalInformation extends React.Component{
                     </tr>
                     <tr className="info">
                         <td>Date</td>
-                        <td>Post March Break - TBD</td>
+                        <td>Post Saturday 4 March 2017</td>
                     </tr>
                     <tr className="warning">
                         <td>Time</td>
